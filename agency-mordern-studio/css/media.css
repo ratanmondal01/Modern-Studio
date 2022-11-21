@@ -1,0 +1,213 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .menu li a {
+        margin-left: 10px;
+    }
+    .btn-common {
+        margin-left: 10px;
+    }
+    .logo_s {
+        padding: 6px 0px;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .logo_s a {
+        margin: 16px;
+        text-align: center;
+    }
+    .portfolio {
+        padding: 26px 0px;
+    }
+    .g-pic {
+        text-align: center;
+        margin: 10px 0px;
+    }
+    .overlay {
+        width: 68%;
+        margin-left: 16%;
+    }
+    .o_icon {
+        right: 37%;
+        bottom: 37%;
+    }
+    .o_icon i {
+        font-size: 46px;
+    }
+    .o_text {
+        margin-left: 8px;
+    }
+    .o_text p {
+        margin: 0px;
+    }
+    .o_text h2 {
+        font-size: 16px;
+    }
+    .b_left h1, .about_text h1, .f_text h1 {
+        font-size: 21px;
+        line-height: 30px;
+        margin: 24px 0px;
+    }
+    .about_right {
+        margin-top: 84px;
+    }
+    .about_text h3, .w_text h3 {
+        margin: -9px 0px;
+        font-size: 18px;
+    }
+    .sm-img{
+        width: 89%;
+    }
+    .ai{
+        width: 40%;
+    }
+    .video, .features {
+        padding: 0px 0px;
+    }
+    .vdo{
+        width: 200px;
+    }
+    .fi{
+        width: 30%;
+    }
+    .features2 {
+        padding-top: 100px;
+        padding-bottom: 15px;
+    }
+    .p_title h1 {
+        font-size: 34px;
+    }
+    .pricing {
+        padding: 0px;
+    }
+    .faq {padding-bottom: 0px;
+    }
+    .pb_bg {
+        text-align: center;
+    }
+    .pb_img {
+       margin: 0;
+    }
+    .w_left {
+        text-align: center;
+    }
+    .b_btn {
+        margin: 0;
+        text-align: center;
+    }
+    .blog_item {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .news {
+        padding: 40px 0px;
+    }
+    .div {
+        width: 205px;
+    }
+    .nbtn{
+        text-align: center;
+    }
+    input {
+        margin: 10px 0px;
+        width: inherit;
+    }
+    .map_form {
+        margin: 15px;
+        padding: 12px;
+    }
+    .c_left {
+        padding: 4px 14px;
+        text-align: center;
+    }
+    .f1 h1, .f1 h2 {
+        text-align: center;
+    }
+    .img-fluid {
+        max-width: 68% !important;
+    }
+    .right {
+        float: none;
+    }
+    
+}
+    
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   .nbtn{
+    text-align: center;
+   }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .about_text h1 {
+        font-size: 44px;
+        line-height: 55px;
+    }
+    .about_text h3 {
+        margin: 8px 0px;
+        font-size: 20px;
+    }
+    .logo_s{
+        flex-wrap: wrap;
+        padding: 20px 0px;
+    }
+    .logo_s a {
+        margin-right: 72px;
+        margin-bottom: 23px;
+    }
+    .ai{
+        width: 40%;
+    }
+    .fi{
+        width: 30%;
+    }
+    .f2_item{
+        margin-bottom: 30px;
+    }
+    .g_btn {
+        text-align: center;
+        margin-right: 50px;
+    }
+    .pb_text h1 {
+        font-size: 24px !important;
+        line-height: 30px !important;
+    }
+    .pb_img {
+        margin-left: 4px;
+    }
+    .div {
+        width: 246px;
+    }
+    .f_text h1 {
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .test_top h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    input {
+        width: 227px;
+    }
+    .map_btm {
+        margin-bottom: 33px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+
+}
